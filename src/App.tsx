@@ -15,7 +15,7 @@ return (
 <h1>Release Board V1</h1>
 <p className="hero-copy">
 Aplicación mínima para practicar pipeline, despliegue y promoción entre
-entornos.
+entornos..
 </p>
 </section>
 <section className="grid">
